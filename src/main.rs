@@ -1,7 +1,3 @@
-// Author: Jake Edwards
-// For: Composable Questionaire
-// Problem #4
-
 use regex::Regex;
 use std::fs::{self, File};
 use std::io::prelude::*;
